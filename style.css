@@ -1,0 +1,234 @@
+
+
+body{
+    font-family: Open Sans;
+}
+
+.container {
+   position: relative;
+}
+
+.text {
+    position:absolute;
+    top: 3%;
+    left: 40%;
+  
+}
+
+.one{
+    font-size: 80px;
+    color: #365486;
+    margin-bottom: 25px;
+    font-family: cursive;
+}
+
+.two{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    color: #365486;
+}
+
+.underline {
+    text-decoration: underline;
+   
+}
+
+.picture {
+    width: 1340px;
+    height: 700px;
+    position: relative;
+   
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    padding-top: 7%;
+    padding-bottom: 22%;
+}
+
+.personal {
+    width: 175px;
+    height: 157px;
+    border-radius: 50%;
+    
+}
+
+.information {
+    position:absolute;
+    bottom: 5%;
+  
+}
+
+.three {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    color: #365486;
+    padding-left: 15px;
+}
+
+hr {
+    border: dotted #7FC7D9 7px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+    
+}
+
+.four {
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+    padding-right: 30%;
+    padding-left: 35%;
+    
+}
+
+.five {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    color: #365486;
+    padding-bottom: 50px;
+}
+
+.skills {
+    height: 600px;
+}
+
+.cat {
+    width: 290px;
+    height: 215px;
+    padding-bottom: 2%;
+}
+
+.chilli {
+    display: flex;
+    width: 290px;
+    height: 215px;
+}
+
+.development {
+    position: relative;
+    
+}
+
+.detailscat {
+    position: absolute;
+    left: 43.5%;
+    top: 252%;
+    padding-right:25%
+    
+}
+
+.six{
+    display: flex;
+    font-size: 20px;
+}
+
+.alpha {
+    font-size: 21px;
+    color: #365486;
+}
+
+.cat {
+    padding-left: 21.7%;
+}
+
+.detailschilli {
+    position: absolute;
+    left: 43.5%;
+    top: 290.5%;
+    padding-right:25%
+}
+
+.chilli {
+    padding-left: 21.7%; 
+}
+
+.beta {
+    font-size: 21px;
+    color: #365486;
+}
+
+.seven {
+    display: flex;
+    font-size: 20px;
+}
+
+.eight {
+    font-size: 45px;
+    color: #365486;
+    padding-left: 43%;
+}
+
+.nine {
+    font-size: 22px;
+    color: #365486;
+    padding-left: 35%;
+}
+
+.ten {
+    font-size: 21px;
+    padding-left: 27%;
+    padding-right: 17%;
+    padding-top: 20px;
+}
+
+.final {
+    font-size: 22px;
+    border: none;
+    width: 180px;
+    height: 40px;
+    border-radius: 10%;
+    color: aliceblue;
+    background-color: #0F1035;
+    margin-left: 46.4%;
+    margin-top: 25px;
+}
+
+.contact {
+    margin-top: 18%;
+    margin-bottom: 6%;
+}
+
+.final:hover {
+    background-color: #365486; 
+  }
+
+.victory {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    padding-left: 7%;
+    padding-bottom: 10%;
+    padding-top: 5%;
+    position: relative;
+    font-size: 21px;
+    background-color: #365486;  
+}
+
+a {
+    color: #0F1035;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aliceblue;
+}
+
+footer {
+    position: absolute;
+    bottom: 30%;
+    right: 34%;
+    color: aliceblue;
+}
+
+
+
+
+
